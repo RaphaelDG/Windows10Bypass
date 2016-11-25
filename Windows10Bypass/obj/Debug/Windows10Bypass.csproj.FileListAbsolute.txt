@@ -1,0 +1,9 @@
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\bin\Debug\Windows10Bypass.exe.config
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\bin\Debug\Windows10Bypass.exe
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\bin\Debug\Windows10Bypass.pdb
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\obj\Debug\Windows10Bypass.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\obj\Debug\Windows10Bypass.Form1.resources
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\obj\Debug\Windows10Bypass.Properties.Resources.resources
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\obj\Debug\Windows10Bypass.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\obj\Debug\Windows10Bypass.exe
+F:\Documents\Visual Studio 2015\Windows10Bypass\Windows10Bypass\obj\Debug\Windows10Bypass.pdb
